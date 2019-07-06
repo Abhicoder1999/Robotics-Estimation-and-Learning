@@ -20,4 +20,7 @@ Assignment: Ball Localization and Position Estimation using Kalman Filter on Abo
 
 Week-3
 ---------
- Still Working On it Updating soon :)
+1. 2D Occupancy gird Mapping of a Lidar data
+2. Different Bot frames and Multi-Lidar data mapping
+
+Assignment: Mapping of surrounding with given pose,bot location and sensor data 
